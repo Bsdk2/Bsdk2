@@ -1,3 +1,6 @@
+chr() converts an integer to a character
+ord() converts a character to an integer
+len() Returns the length of a string
+str() Returns a string representation of an object
 
 
-![8636367](https://github.com/Bsdk2/Bsdk2/assets/149138256/d52797c9-e283-4398-b764-d97f37d00fed)
